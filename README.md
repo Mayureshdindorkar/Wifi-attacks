@@ -10,5 +10,5 @@
 **Name: Dindorkar Mayuresh Rajesh**  
 **Roll No.: CS23MTECH14007**  
 
-**Name: Shrenik Ganguli**
-**Roll No.: CS23MTECH14014**
+**Name: Shrenik Ganguli**  
+**Roll No.: CS23MTECH14014**  
