@@ -1,4 +1,4 @@
-## Network Security Assignment: Simple Wifi-attacks**
+## Network Security Assignment: Simple Wifi-attacks
 
 **Group members:**  
 
